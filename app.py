@@ -2,4 +2,4 @@
 
 ultimate_question = 'Главный вопрос Жизни,Вселенной и Вообще!!!'
 
-print(len(ultimate_question))
+print(f'The ulimate answer is {len(ultimate_question)}')
